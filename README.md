@@ -62,7 +62,25 @@ display_print  = true;      % print iteration progress
 
 ## License and usage
 
-At this stage, the code is shared **for peer-review purposes only**.
-All rights reserved © 2025 Vural YILDIRIM, Ezio TODINI, Yeliz MERT KANTAR.
+At this stage, the code is shared **for peer-review purposes only** in support
+of the manuscript:
 
-No redistribution, public hosting, or commercial use is permitted without the explicit written permission of the authors.
+*A Robust Maximum Likelihood Estimation Approach for Ordinary Kriging with
+Outlier-Contaminated Spatial Data*  
+Vural YILDIRIM, Ezio TODINI, Yeliz MERT KANTAR
+
+All rights reserved © 2025  
+Vural YILDIRIM, Ezio TODINI, Yeliz MERT KANTAR.
+
+No redistribution or re-publication of the source code (in whole or in part)
+is permitted without the explicit written permission of the authors.
+
+No public hosting in other repositories or archives is allowed.
+
+No commercial use is allowed.
+
+If you are a reviewer or editor and need additional information or permission,
+please contact the corresponding author at:
+
+**vurall_yildirim@hotmail.com**
+
