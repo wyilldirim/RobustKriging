@@ -45,7 +45,7 @@ Only **parameter estimation** is implemented here.
 
 v_type         = 'Gau';     % 'Lin','Mono','Gau','Exp','Sph','MSph','Cub'
 est_alg        = 'Robust';  % 'NonRobust' or 'Robust'
-m_est_func     = 'Tukey';   % see full list in KRMLE_functions header
+m_est_func     = 'Cauchy';   % see full list in KRMLE_functions header
 tol            = 1e-3;      % convergence tolerance
 iter_limit     = 100;       % max number of iterations
 stop_on_negative = true;    % stop if sill/range stay negative
