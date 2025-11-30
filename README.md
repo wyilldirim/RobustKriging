@@ -32,7 +32,6 @@ At the moment, the repository provides:
   - Newton–Raphson estimation of variogram parameters  
     \(nugget, sill, range\) for several models.
 
-No kriging prediction (interpolation) functions are included yet.  
 Only **parameter estimation** is implemented here.
 
 ---
