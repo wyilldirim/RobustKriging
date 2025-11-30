@@ -57,6 +57,7 @@ display_print  = true;      % print iteration progress
         z, H_matrix, p_initial, v_type, ...
         est_alg, m_est_func, ...
         tol, iter_limit, stop_on_negative, display_print);
+```
 
 ---
 
