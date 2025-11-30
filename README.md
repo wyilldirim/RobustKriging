@@ -57,3 +57,12 @@ display_print  = true;      % print iteration progress
         z, H_matrix, p_initial, v_type, ...
         est_alg, m_est_func, ...
         tol, iter_limit, stop_on_negative, display_print);
+
+---
+
+## License and usage
+
+At this stage, the code is shared **for peer-review purposes only**.
+All rights reserved © 2025 Vural YILDIRIM, Ezio TODINI, Yeliz MERT KANTAR.
+
+No redistribution, public hosting, or commercial use is permitted without the explicit written permission of the authors.
