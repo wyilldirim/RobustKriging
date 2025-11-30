@@ -1,3 +1,10 @@
+% Copyright (c) 2025
+% Vural YILDIRIM, Ezio TODINI, Yeliz MERT KANTAR
+% All rights reserved.
+% This code is shared for peer-review purposes only and may not be
+% redistributed or used commercially without the prior written
+% permission of the authors.
+
 classdef KRMLE_functions
      %KRMLE_FUNCTIONS
     %   Robust variogram parameter estimation utilities for the paper:
@@ -1224,3 +1231,4 @@ classdef KRMLE_functions
     end
 
 end
+
