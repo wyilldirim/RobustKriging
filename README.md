@@ -147,8 +147,6 @@ If you use this repository in your research, please cite:
 
 This project is licensed under the MIT License.
 
-If you prefer a more restrictive academic-only license, you may replace this section with a different license before making the repository public.
-
 ---
 
 ## Contact
