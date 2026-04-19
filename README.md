@@ -145,7 +145,13 @@ If you use this repository in your research, please cite:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+You are free to share and adapt the material for academic and non-commercial purposes, provided that appropriate credit is given and the original publication is cited.
+
+Commercial use of this code is strictly prohibited without prior written permission from the authors.
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/
 
 ---
 
